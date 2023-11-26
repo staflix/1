@@ -1,0 +1,12 @@
+ветка master по строению файла human.txt ничем не отличается, потому что в ветке _boots_buttons лежать ветки boots и
+buttons и еще я добавил hat, получился полный человек. В ветке demo также замержены: hat, buttons, boots, поэтому
+они ничем не различаются.
+
+Перечисленые коментариев коммитов:
+init, heat added, boots, README added, dots, fix readme,
+Merge remote-tracking branch 'origin/boots' into _boots_buttons,
+Merge remote-tracking branch 'origin/buttons' into _boots_buttons,
+Merge remote-tracking branch 'origin/hat',
+Merge branch '_boots_buttons'.
+
+
